@@ -3,7 +3,9 @@ package com.languagefundamentals;
 public class LanguagefundamentalsTD1 {
 	byte b=127;
 	byte b1 = (byte)126;	
-	short s;
+	short s=127;;
+
+	
 	int i;
 	long l;
 	
